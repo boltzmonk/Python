@@ -138,7 +138,7 @@ def play():#用pygame进行游戏（单人游戏）
                             activeforeground='white', command=s_save)
         b2.place(relx=0.2, relwidth=0.6, rely=0.75, relheight=0.2)
 
-    win.mainloop()
+        win.mainloop()
 
     
 
